@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "SearchTabs",
+  "description": "Search for a tab in any window",
+  "version": "0.1.0",
+  "author": "Pedro Araujo <pedro.araujo@gmail.com>",
+
+  "omnibox": { "keyword" : "tab" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "permissions": [
+    "tabs"
+  ]
+}
