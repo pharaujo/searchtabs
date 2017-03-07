@@ -3,7 +3,7 @@
 
   "name": "SearchTabs",
   "description": "Search for a tab in any window",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Pedro Araujo <pedro.araujo@gmail.com>",
 
   "omnibox": { "keyword" : "tab" },
